@@ -1,0 +1,2 @@
+E:\Syncron\Pannon Egyetem\6. félév\Rendszerfejlesztés\Client\Client\bin\Debug\Client.exe.config
+E:\Syncron\Pannon Egyetem\6. félév\Rendszerfejlesztés\Rendszerfejlesztes\Client\Client\bin\Debug\Client.exe.config
